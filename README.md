@@ -9,3 +9,10 @@ I developed an algorithm that could be used as part of a mobile or web app to de
 ### Step 5: Write Algorithm
 ### Step 6: Test Algorithm
 
+
+
+
+
+| Input Algorithm with Human Images | Input Algorithm with Dog Images    |
+|------------|-------------|
+| <img src="https://raw.githubusercontent.com/muxiazhixing/Dog-Breed-Identification/master/images/human.png" width="290"> |<img src="https://raw.githubusercontent.com/muxiazhixing/Dog-Breed-Identification/master/images/dog.png" width="440" >|
